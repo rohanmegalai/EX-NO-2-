@@ -83,7 +83,8 @@ int main()
 ```
 Output:
 
-![image](https://github.com/user-attachments/assets/e9f47beb-43cf-4211-8821-01cf7445524e)
+![Screenshot 2025-05-25 233343](https://github.com/user-attachments/assets/68c4ba31-3cfd-4ee6-91be-0097c98779b0)
+
 
 RESULT:
 The program is executed successfully
